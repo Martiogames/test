@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "main": "/src/serve.ts",
+  "main": "/src/serve.js",
 
   "keywords": [],
   "author": "",
